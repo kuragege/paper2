@@ -1,0 +1,38 @@
+﻿@charset "UTF-8"; * {margin:0; padding:0; text-indent:0; }
+ .s1 { color: black; font-family:"Palatino Linotype", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 16pt; }
+ .s2 { color: black; font-family:"Palatino Linotype", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }
+ .s3 { color: black; font-family:"Palatino Linotype", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 18pt; }
+ .s4 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 18pt; }
+ .p, p { color: black; font-family:Garamond, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; margin:0pt; }
+ .s5 { color: #007FAC; font-family:Garamond, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s6 { color: black; font-family:"Times New Roman", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s7 { color: black; font-family:Garamond, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9.5pt; }
+ .s8 { color: black; font-family:"Palatino Linotype", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; }
+ .s9 { color: black; font-family:Garamond, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; }
+ .s10 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6pt; }
+ .s11 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9.5pt; }
+ .s12 { color: black; font-family:"Bookman Old Style", serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9.5pt; }
+ .s13 { color: black; font-family:Garamond, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 48pt; }
+ .s14 { color: #007FAC; font-family:Garamond, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s15 { color: black; font-family:Garamond, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 1pt; }
+ .s16 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .a, a { color: #007FAC; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s17 { color: black; font-family:"Arial Black", sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s18 { color: #007FAC; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s19 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s20 { color: black; font-family:Calibri, sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s21 { color: black; font-family:"Palatino Linotype", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s22 { color: black; font-family:Cambria, serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s23 { color: black; font-family:Garamond, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s24 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s25 { color: black; font-family:"Palatino Linotype", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 7pt; }
+ .s26 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s27 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 5pt; vertical-align: 1pt; }
+ .s28 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s30 { color: #007FAC; font-family:Garamond, serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 6.5pt; }
+ .s31 { color: black; font-family:"Palatino Linotype", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
+ .s32 { color: black; font-family:Cambria, serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .s34 { color: black; font-family:"Palatino Linotype", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s35 { color: #007FAC; font-family:Calibri, sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s37 { color: #007FAC; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
+ .s38 { color: #007FAC; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; }
